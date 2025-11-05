@@ -100,10 +100,13 @@ Alternatively, view the static dashboard image above for reference.
 ## 🧾 Author
 
 **Created by:** Utkarsh Kohli
+
 📅 Year: 2025
+
 🔗 For academic and portfolio use
 
 ---
 
 > *This dashboard serves as a data visualization and analytics project for UPI transactions in India, built to showcase Power BI’s interactive reporting capabilities.*
+
 
