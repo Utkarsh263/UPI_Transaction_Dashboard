@@ -50,7 +50,7 @@ All metrics are interactive with filters and bookmarks for smooth navigation and
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="upi_dashboard.png" alt="UPI Transaction Analytics Dashboard" width="850"/>
+  <img src="Screenshot 2025-11-05 175203.png" alt="UPI Transaction Analytics Dashboard" width="850"/>
 </p>
 
 > *Screenshot: Interactive Power BI dashboard displaying transaction analytics for 2024.*
@@ -106,3 +106,4 @@ Alternatively, view the static dashboard image above for reference.
 ---
 
 > *This dashboard serves as a data visualization and analytics project for UPI transactions in India, built to showcase Power BI’s interactive reporting capabilities.*
+
